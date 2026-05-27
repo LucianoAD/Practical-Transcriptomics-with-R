@@ -19,7 +19,7 @@ Educational workflow for transcriptomic preprocessing, GEO data exploration and 
 
 **Documentation website**
 
-:contentReference[oaicite:0]{index=0}
+[Practical Transcriptomics with R](https://lucianoad.github.io/Practical-Transcriptomics-with-R/)
 
 ---
 
@@ -27,7 +27,7 @@ Educational workflow for transcriptomic preprocessing, GEO data exploration and 
 
 Tutorial-style transcriptomics workflow designed to transform raw GEO datasets into analysis-ready data.
 
-The project demonstrates practical skills in:
+Key concepts covered::
 
 - GEO data retrieval
 - Metadata filtering
